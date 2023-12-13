@@ -22,12 +22,7 @@ Welcome to the Vehicle Management Interface! This interface provides a user-frie
 
 - **Frontend:**
 
-- [![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](Link_A_Tu_Pagina_De_JavaScript)
-[![HTML](https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)](Link_A_Tu_Pagina_De_HTML)
-[![CSS](https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge&logo=css3&logoColor=white)](Link_A_Tu_Pagina_De_CSS)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](Link_A_Tu_Pagina_De_Bootstrap)
-[![Angular](https://img.shields.io/badge/Angular-%23DD0031?style=for-the-badge&logo=angular&logoColor=white)](Link_A_Tu_Pagina_De_Angular)
-[![Ionic](https://img.shields.io/badge/Ionic-%2335495E?style=for-the-badge&logo=ionic&logoColor=white)](Link_A_Tu_Pagina_De_Ionic)
+- [![Ionic](https://img.shields.io/badge/Ionic-%2335495E?style=for-the-badge&logo=ionic&logoColor=white)](Link_A_Tu_Pagina_De_Ionic)
 
 - **Backend:**
 
