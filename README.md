@@ -55,6 +55,9 @@ Welcome to the Vehicle Management Interface! This interface provides a user-frie
 3. Install dependencies using the package manager of your choice.
 4. Run the application and access it through your web browser.
 
+## Contributions
+<img align="left" width="100" height="100" src="https://github.com/AlejandroDavidArzolaSaavedra/Kata-Working-With-Sqlite/assets/90756437/f83020eb-76e4-4224-87e4-ae2a2d370b05g"></a>
 Feel free to explore, manage your vehicles, schedule maintenance, and stay informed about gasoline prices in Gran Canaria!
 
 **Happy driving! 🚗🔧⛽**
+
