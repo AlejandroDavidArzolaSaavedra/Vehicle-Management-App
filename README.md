@@ -22,23 +22,18 @@ Welcome to the Vehicle Management Interface! This interface provides a user-frie
 
 - **Frontend:**
 
-- [![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white)](Link_A_Tu_Pagina_De_TypeScript)
+[![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white)](Link_A_Tu_Pagina_De_TypeScript)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](Link_A_Tu_Pagina_De_Bootstrap)
 [![CSS](https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge&logo=css3&logoColor=white)](Link_A_Tu_Pagina_De_CSS)
 [![Angular](https://img.shields.io/badge/Angular-%23DD0031?style=for-the-badge&logo=angular&logoColor=white)](Link_A_Tu_Pagina_De_Angular)
 
 - **Backend:**
 
-- [![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](Link_A_Tu_Pagina_De_Firebase)
+[![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](Link_A_Tu_Pagina_De_Firebase)
 
 - **Project Management:**
 
-- [![Trello](https://img.shields.io/badge/Trello-%231E90FF?style=for-the-badge&logo=trello&logoColor=white)](Link_A_Tu_Pagina_De_Trello)
-
-
-- **Development Year:**
-- [![2023](https://img.shields.io/badge/2023-%23007ACC?style=for-the-badge&logoColor=white)](Link_A_Tu_Pagina_De_2023)
-
+[![Trello](https://img.shields.io/badge/Trello-%231E90FF?style=for-the-badge&logo=trello&logoColor=white)](Link_A_Tu_Pagina_De_Trello)
 
 ## Features
 
