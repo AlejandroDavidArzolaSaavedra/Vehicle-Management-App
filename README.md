@@ -1,9 +1,9 @@
 <h1 align="center">Vehicle Management Interface 🚗</h1>
 
 Welcome to the Vehicle Management Interface! This interface provides a user-friendly platform for managing vehicles, performing maintenance tasks, and checking gasoline prices at various stations in Gran Canaria.
-
 <p align="center">
-  <img src="https://i.imgur.com/9kTyuSJ.png">
+  <img src="https://github.com/AlejandroDavidArzolaSaavedra/Vehicle-Management-App/assets/90756437/3c76a07d-372c-42ec-9458-697d885dc6e9">
+  <!--<img src="https://i.imgur.com/9kTyuSJ.png">-->
 </p>
 
 # 👥 Equipo de desarrollo (Ctrl + Click para ver los perfiles)
