@@ -34,6 +34,8 @@ Welcome to the Vehicle Management Interface! This interface provides a user-frie
 
 ## Features
 
+<img align="left" width="140" height="180" src="https://github.com/AlejandroDavidArzolaSaavedra/Vehicle-Management-App/assets/90756437/1166e506-3fb8-4a56-b781-d97a4e7a9cd5"/>
+
 1. **Vehicle Management:** Easily manage and track information about your vehicles, including maintenance history, fuel consumption, and more.
 
 2. **Maintenance Tasks:** Schedule and perform maintenance tasks for your vehicles to keep them in optimal condition. Receive timely reminders for upcoming maintenance.
@@ -48,7 +50,7 @@ Welcome to the Vehicle Management Interface! This interface provides a user-frie
 4. Run the application and access it through your web browser.
 
 ## Contributions
-<img align="left" width="100" height="100" src="https://github.com/AlejandroDavidArzolaSaavedra/Kata-Working-With-Sqlite/assets/90756437/f83020eb-76e4-4224-87e4-ae2a2d370b05g"></a>
+<img align="left" width="100" height="100" src="https://github.com/AlejandroDavidArzolaSaavedra/Kata-Working-With-Sqlite/assets/90756437/f83020eb-76e4-4224-87e4-ae2a2d370b05g">
 Feel free to explore, manage your vehicles, schedule maintenance, and stay informed about gasoline prices in Gran Canaria!
 
 **Happy driving! 🚗🔧⛽**
