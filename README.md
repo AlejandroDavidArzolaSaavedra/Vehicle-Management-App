@@ -6,7 +6,7 @@ Welcome to the Vehicle Management Interface! This interface provides a user-frie
   <!--<img src="https://i.imgur.com/9kTyuSJ.png">-->
 </p>
 
-# 👥 Equipo de desarrollo (Ctrl + Click para ver los perfiles)
+# 👥 Dev Team
 
 [![GitHub](https://img.shields.io/badge/GitHub-O%20love%20-purple?style=flat-square&logo=github)](https://github.com/o-love)
 
